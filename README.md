@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @sokaina-nadi
-- 👩‍🎓 I am currently a second-year student Master of Research in 
-  Information Systems and Intelligent Systems at the National Institute of 
-  Statistics and of Applied Economics (INSEA).
+- 👩‍🎓  I have recently graduated with a Master of Research in Information Systems and Intelligent Systems from the National Institute of Statistics and Applied Economics (INSEA). I'm passionate about data analysis and intelligent systems, and I'm eager to apply my knowledge and skills to real-world projects and challenges. Looking forward to connecting and collaborating with like-minded individuals in the field!
 - 👀 i'm interested by domain machine learning and deep learning
 - 📫 How to reach me snadi@insea.ac.ma
-- 🔍 I’m looking for a final year 6 months internship in  Data science/Big Data/ Deep learning/ Machine learning/Computer Vision
+
 
 <!---
 sokaina-nadi/sokaina-nadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
